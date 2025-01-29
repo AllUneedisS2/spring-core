@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="hello.core.scope.SingletonWithPrototypeTest1" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-08T12:58:07" hostname="Bomins-MacBook-Air.local" time="0.134">
-  <properties/>
-  <testcase name="prototypeFind()" classname="hello.core.scope.SingletonWithPrototypeTest1" time="0.134"/>
-  <system-out><![CDATA[PrototypeBean.init hello.core.scope.SingletonWithPrototypeTest1$PrototypeBean@26b894bd
-PrototypeBean.init hello.core.scope.SingletonWithPrototypeTest1$PrototypeBean@26f143ed
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
